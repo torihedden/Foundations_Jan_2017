@@ -15,3 +15,7 @@
 
 ### A good text editor, there are many good ones out there.
  * https://atom.io/
+
+### Eloquent JavaScript
+#### A bit more in-depth than what we will cover in this course
+ * http://eloquentjavascript.net/

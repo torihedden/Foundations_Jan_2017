@@ -8,3 +8,10 @@
 3. GitHub desktop vs. CLI
   * since we are using a mix of Mac and PC, the desktop will provide us a more similar experience class-wide
   * CLI is more abstract and can be trickier
+
+## Resources and Tools
+### Understanding the GitHub Flow
+ * https://guides.github.com/introduction/flow/
+
+### A good text editor, there are many good ones out there.
+ * https://atom.io/

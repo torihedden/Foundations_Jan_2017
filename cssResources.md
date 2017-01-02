@@ -1,4 +1,6 @@
-## CSS Resourcs
+## CSS Resources
+
+### Meyer Reset
 
 ```
 /* http://meyerweb.com/eric/tools/css/reset/
